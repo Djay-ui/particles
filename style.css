@@ -20,4 +20,11 @@ section {
   -o-object-fit: cover;
      object-fit: cover;
 }
+
+#particles-js {
+  position: relative;
+  height: 100vh;
+  background: #fff;
+  mix-blend-mode: screen;
+}
 /*# sourceMappingURL=style.css.map */
